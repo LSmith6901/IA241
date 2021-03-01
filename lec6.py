@@ -15,7 +15,7 @@ demo_str = 'this is my string'
 
 num_list = [213, 321, 123, 312]
 
-max_item = 0
+max_item = num_list[0]
 
 for num in num_list:
     if max_item <= num:
