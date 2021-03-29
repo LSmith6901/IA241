@@ -23,6 +23,6 @@ smith7lc@dukes.jmu.edu
 2. item2
 3. item3
 
-*item 1
-*item 2
-*item 3
+* item 1
+* item 2
+* item 3
