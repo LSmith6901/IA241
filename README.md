@@ -28,3 +28,5 @@ smith7lc@dukes.jmu.edu
 * item 3
 
 [lab1](https://github.com/LSmith6901/IA241/blob/main/lab1.py)
+
+![jmu image](https://www.jmu.edu/_images/_story-rotator/full-width-images/choices2-2000x666.jpg)
