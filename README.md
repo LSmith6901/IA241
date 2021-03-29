@@ -26,3 +26,5 @@ smith7lc@dukes.jmu.edu
 * item 1
 * item 2
 * item 3
+
+[lab1](https://github.com/LSmith6901/IA241/blob/main/lab1.py)
